@@ -172,6 +172,6 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^5.0.0"
   }
 }
